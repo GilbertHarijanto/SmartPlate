@@ -1,0 +1,6 @@
+google-generativeai
+openai
+pillow
+streamlit
+python-dotenv
+requests
