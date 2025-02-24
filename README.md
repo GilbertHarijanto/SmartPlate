@@ -12,3 +12,7 @@ SmartPlate is an AI-driven meal planning application that generates personalized
 - Audio descriptions of recipes
 - Customizable user profiles (dietary restrictions, health goals, etc.)
 - TDEE (Total Daily Energy Expenditure) calculation
+
+## Running the Code
+To run the code, simply run:
+- `streamlit run app.py`
